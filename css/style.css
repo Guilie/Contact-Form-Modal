@@ -1,0 +1,39 @@
+ body {
+ 	background-image: url(../images/cool-background.png);
+ 	background-size: cover;
+ 	background-repeat: no-repeat;
+ 	background-attachment: fixed;
+ }
+
+ #title {
+ 	font-family: 'Mansalva', cursive;
+ 	font-size: 3em;
+ 	color: white;
+ 	text-align: center;
+ }
+
+ #main {
+ 	font-family: 'Titillium Web', sans-serif;
+ 	font-size: 1em;
+ 	color: rgba(248, 99, 126, 1);
+ }
+
+ #menu {
+ 	font-family: 'Titillium Web', sans-serif;
+ 	font-size: 1em;
+ 	color: rgba(248, 99, 126, 1);
+ 	text-align: justify;
+ 	list-style: none;
+ }
+
+ #bottom {
+ 	font-family: 'Titillium Web', sans-serif;
+ 	color: rgba(248, 99, 126, 1);
+ 	position:absolute;
+	bottom:0;
+	width:100%;
+	padding-top:50px;
+	height:50px;
+	text-align: center;
+ }
+
